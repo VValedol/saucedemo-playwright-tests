@@ -1,5 +1,6 @@
 # Playwright UI + API tests: demo online shop
-n[![Playwright tests](https://github.com/VValedol/saucedemo-playwright-tests/actions/workflows/playwright.yml/badge.svg)](https://github.com/VValedol/saucedemo-playwright-tests/actions/workflows/playwright.yml)
+
+[![Playwright tests](https://github.com/VValedol/saucedemo-playwright-tests/actions/workflows/playwright.yml/badge.svg)](https://github.com/VValedol/saucedemo-playwright-tests/actions/workflows/playwright.yml)
 
 A compact, production-style test suite written with [Playwright](https://playwright.dev/) and TypeScript.
 
